@@ -16,6 +16,19 @@
   align-items: center;
 }
 
+.main__header {
+  display: flex;
+}
+
+.lilis {
+  font-family: 'Roboto', sans-serif;
+  margin-right: 5px;
+}
+
+.food {
+  font-family: 'Courgette', cursive;
+}
+
 .footer {
   width: 100%;
   height: 100px;
